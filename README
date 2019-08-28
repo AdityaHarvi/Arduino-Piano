@@ -45,11 +45,6 @@ CD              NOT CONNECTED
 BUZZER WIRING
 Arduino pin 24
 ---------------------------------------------
-Notes and Assumptions:
-
--   Assumed that the user has wiried everything properly
--   Asssumed the user knows how to use the terminal
----------------------------------------------
 Running Instructions:
 
 In order to run the program, make sure everything is wired correctly.
