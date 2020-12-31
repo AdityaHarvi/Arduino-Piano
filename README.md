@@ -35,6 +35,7 @@ CD              NOT CONNECTED
 BUZZER WIRING
 Arduino pin 24
 </pre>
+**It's safe to disregard the joystick from the following image:**
 ![](https://github.com/AdityaHarvi/Arduino-Piano/blob/master/images/wiring.png)
 ![](https://github.com/AdityaHarvi/Arduino-Piano/blob/master/images/wiring_close_up.png)
 ## Running Instructions
