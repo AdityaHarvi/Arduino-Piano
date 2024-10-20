@@ -2,8 +2,11 @@
 A custom-made piano capable of saving songs and allowing players to compare their skills to that song.
 So if you were to create a song and save it to the program, you can then give the piano to a friend and they can try to match your song as best they can.
 The program will then return a letter grade for how well they did.
-  
-![](https://github.com/AdityaHarvi/Arduino-Piano/blob/master/images/piano.png)
+
+<p align="center">
+    <img width="578" alt="Tetrix" src="https://github.com/AdityaHarvi/Arduino-Piano/blob/master/images/piano.png">
+</p>
+
 ## Setup & Pre-req's
 #### Accessories:
 -   Arduino Mega Board (AMG)
